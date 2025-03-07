@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: lookhkh/docker-repo:f6cd798
+      - image: lookhkh/docker-repo:037ecac
         name: 
